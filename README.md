@@ -79,6 +79,7 @@
 
   <a href="https://github.com/torvalds/linux"><img src="https://skillicons.dev/icons?i=linux" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" /></a>
 
 </p>
 
@@ -94,14 +95,6 @@
 <li>
 <a href="https://www.linkedin.com/in/santiago-quintero-rinc%C3%B3n-696a71285" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Santiago Quintero Rincón-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/thepixels21" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  thepixels21-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
