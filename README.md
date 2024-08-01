@@ -7,7 +7,7 @@
 
 <br>
 
-- 🔭 I’m currently focusing on **Java, Spring Boot, NodeJS, and Angular**.
+- 🔭 I’m currently focusing on **Java, Spring Boot, NodeJS, Angular, Docker and Kubernetes**.
 
 - 🌱 I’m currently learning **Software Engineering (70% complete)** and ready to craft innovative solutions.
   
@@ -15,7 +15,7 @@
 
 - 🎓 I’m a Software Engineering student at **Institución Universitaria EAM**.
 
-- 💬 Ask me about **Java, Python, Android-Kotlin, Spring Boot, Angular, MySQL, HTML5, CSS3, JavaScript, Git**.
+- 💬 Ask me about **Java, Python, Docker, Node, Android-Kotlin, Spring Boot, Angular, MySQL, HTML5, CSS3, JavaScript, Git**.
 
 - 📫 Feel free to reach me out at **santiqrdev@gmail.com**.
 
